@@ -1,4 +1,6 @@
 # AI-Sketches-a-Photo
+- Full web application for this project hosted at: http://photo-sketcher.areezvisram.com/
+- Repository at: https://github.com/areezvisram/Photo-Sketcher
 This AI is able to take in any image, and recreate the image into a light pencil sketch as well as a detailed, darker sketch, as shown below:
 
 Given this original image:
